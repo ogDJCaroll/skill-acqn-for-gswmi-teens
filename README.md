@@ -1,1 +1,1 @@
-a diagram to show the process.
+show the process
